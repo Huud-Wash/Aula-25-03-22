@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+         let meuNome = 'Duuh'
+         let cores = 
+         [ "azul",
+         "amarelo",
+         "branco",
+         "preto",
+         "cinza",
+         "verde" ];
+         let media = 0;
+
+         
+         /*
+         Se o aluno tirou menos que 5 - -> escrever reprovado
+         Se for = 5 - -> passou raspando
+         Se for >5 <8 - -> mostrar boa rapaz!
+         Se for > 8 - -> Você é o cara! ||
+
+         /*
+
+         // - ->significa OU
+         // - ->significa E
+    </script>
+
+</body>
+</html>

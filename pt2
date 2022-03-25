@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+         let meuNome = 'Duuh'
+         let cores = 
+         [ "azul",
+         "amarelo",
+         "branco",
+         "preto",
+         "cinza",
+         "verde" ];
+         let media = 9;
+
+         if(media = 9) {
+           document.write("<p styles'color;#40E0D0'>Está bem!</p>")
+         } else if (vida < 7) {
+            document.write("<p styles'color;#9370DB'>Precisa estudar</p>")
+         } else if (vida < 5) {
+            document.write("<p styles'color;#9370DB'>Rapaz! Vamos</p>")
+         } else {
+            document.write("<p styles'color;#9370DB'>Agora....</p>")
+         }  
+    </script>
+
+</body>
+</html>
